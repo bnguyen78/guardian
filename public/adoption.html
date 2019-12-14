@@ -132,27 +132,8 @@ const addPerson =_=> {
   .catch(e => console.error(e))
 }
 
-//update users
-const updatePerson = id => {
-  axios.put(`/person/:${id}`)
-  .then(() => {
-    console.log('person updated')
-  })
-  .catch(e => console.log(e))
-}
-
-// remove users
-
-const removePerson = id => {
-  axios.delete(`/person/:${id}`)
-  .then(() => {
-    console.log('person deleted')
-  })
-  .catch(e => console.error(e))
-}
   
-  //button javascript
-  
+  //button javascript 
   document.getElementById('submitButton').addEventListener('click', e => {
     e.preventDefault()
     
