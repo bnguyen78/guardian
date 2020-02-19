@@ -16,14 +16,14 @@ Leveraging front and backend technologies, establishing a comprehensive database
 # Get Started
 1. The admin will be directed to the homepage where notifications of any animals that are ready for adoption.
 2. There are 4 different things that you can do from here:
-* Adoption Page: Fill out an adoption page using client's information and ID of pet
+* Adoption Page: Fill out an adoption form using client's information and ID of pet
 * Intake Page: Take in new animals into the shelter and get the new animal ready for adoption
 * Animals Page: Track and manage animal caretaking
 * Adopted Page: Look at previously adopted animals
  
 Deployed version: https://agile-mesa-62002.herokuapp.com/
 
-<img src="./public/assets/images/AdoptionPage.png" width="250" height="400"><img src="./public/assets/images/AnimalsPage.png" width="250" height="400"><img src="/public/assets/images/IntakePage.png" width="250" height="400"> 
+<img src="./public/assets/images/AdoptionPage.png" width="250" height="400"><img src="/public/assets/images/IntakePage.png" width="250" height="400"><img src="./public/assets/images/AnimalsPage.png" width="250" height="400"> <img src="./public/assets/images/AdoptedPage.png" width="250" height="400">
 
 # App Contributors
 * Bryant Nguyen https://github.com/bnguyen78
