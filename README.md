@@ -23,7 +23,7 @@ Leveraging front and backend technologies, establishing a comprehensive database
  
 Deployed version: https://agile-mesa-62002.herokuapp.com/
 
-<img src="/assets/AdoptionPage.png" width="250" height="400"><img src="/assets/AnimalsPage.png" width="250" height="400"><img src="/assets/IntakePage.png" width="250" height="400"> 
+<img src="./public/assets/images/AdoptionPage.png" width="250" height="400"><img src="./public/assets/images/AnimalsPage.png" width="250" height="400"><img src="/public/assets/images/IntakePage.png" width="250" height="400"> 
 
 # App Contributors
 * Bryant Nguyen https://github.com/bnguyen78
